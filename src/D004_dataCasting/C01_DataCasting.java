@@ -1,6 +1,6 @@
 package D004_dataCasting;
 
-public class C01 {
+public class C01_DataCasting {
 
     public static void main(String[] args) {
 
