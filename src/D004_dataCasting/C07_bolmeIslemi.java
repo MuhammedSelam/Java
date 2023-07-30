@@ -2,7 +2,7 @@ package D004_dataCasting;
 
 import java.util.Scanner;
 
-public class C07 {
+public class C07_bolmeIslemi {
 
     public static void main(String[] args) {
 
