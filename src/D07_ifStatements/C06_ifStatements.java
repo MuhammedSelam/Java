@@ -19,6 +19,16 @@ public class C06_ifStatements {
         if (kenar1 == kenar2 && kenar1 == kenar3 && kenar1 > 0) {
             System.out.println("Eskenar ucgen");
         }
+
+
+        /*
+        if (kenar1 == kenar2 && kenar2 == kenar3 && kenar2>0){
+            System.out.println("Eskenar ucgen");
+        }else {
+            System.out.println("Eskenar ucgen degil");
+        }
+         */
+
     }
 
 }
