@@ -1,4 +1,4 @@
-package D004_dataCasting;
+package D004_dataCasting__WrapperClass;
 
 public class C04_ortalamaHesaplama {
 
