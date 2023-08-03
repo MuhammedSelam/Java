@@ -2,7 +2,7 @@ package D08_Ternary;
 
 import java.util.Scanner;
 
-public class C09_C05_NestedTernary {
+public class C09_NestedTernary {
 
     public static void main(String[] args) {
 
