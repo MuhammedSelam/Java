@@ -1,4 +1,4 @@
-package D010_StringManipulations;
+package D10_StringManipulations;
 
 public class C05_indexOf_contains {
 
