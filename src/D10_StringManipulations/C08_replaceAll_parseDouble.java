@@ -1,6 +1,6 @@
 package D10_StringManipulations;
 
-public class C08_replaceAll {
+public class C08_replaceAll_parseDouble {
 
     public static void main(String[] args) {
 

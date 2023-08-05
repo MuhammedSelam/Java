@@ -2,7 +2,7 @@ package D11_forLoop;
 
 import java.util.Scanner;
 
-public class C11_forLoop {
+public class C11_forLoop_rakamlarToplami {
 
     public static void main(String[] args) {
 
