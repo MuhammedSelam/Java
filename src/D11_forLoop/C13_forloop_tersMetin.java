@@ -18,17 +18,5 @@ public class C13_forloop_tersMetin {
             System.out.print(str.charAt(i));
         }
 
-
-        /*
-        // terse cevrilmis halini kaydedelim
-        String tersMetin = "";
-
-        for (int i = str.length()-1; i >=0 ; i--) {
-            tersMetin += str.charAt(i);
-        }
-
-        System.out.println("Terse cevrilen metin : " + tersMetin);
-         */
-
     }
 }
