@@ -9,7 +9,7 @@ public class C02_MethodOlusturma {
         // Kullanicidan main method icinde  ayri ayri isim ve soyismini alin
         // Isim ve soyismi ilk harfleri buyuk diger harfler kucuk olacak sekilde duzenleyip,
         // isim bosluk soyisim seklinde bize donduren bir method olusturun
-        // input : isim : Ali  soyisim :YILMAZ.     output : Ali Yilmaz
+        // input : isim : Murat  soyisim :Hakan.     output : Murat Hakan
 
         Scanner scanner = new Scanner(System.in);
 
