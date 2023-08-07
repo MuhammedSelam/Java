@@ -4,29 +4,23 @@ import java.util.Scanner;
 
 public class C02_WhileLoop {
 
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 
-        // Kullanicidan toplanmak uzere sayilar alin
-        // toplam 500 olur veya gecerse deger almayi durdurup
-        // kac sayi girildigini ve toplamin kac oldugunu yazdirin
-
-        Scanner scanner = new Scanner(System.in);
-        int sayac = 0;
-        int toplam = 0;
-        int sayi = 0;
+            // Kullanicidan toplanmak uzere sayilar isteyin
+            // toplam 500 olur veya gecerse toplami yazdirin.
 
 
-        while(toplam < 500){
+            Scanner scanner = new Scanner(System.in);
 
-            System.out.println("Lutfen toplanmak icin tamsayi giriniz");
-            sayi = scanner.nextInt();
+            int sayi = 0;
+            int toplam = 0;
 
-            sayac++;
-            toplam += sayi;
+            while (toplam <= 500) {
+                System.out.println("Lutfen toplamak uzere sayi giriniz");
+                sayi = scanner.nextInt();
+                toplam += sayi;
+            }
 
+            System.out.println("Girilen sayilarin toplami: " + toplam);
         }
-
-        System.out.println(sayac + " adet sayinin toplami : " + toplam);
-
     }
-}
