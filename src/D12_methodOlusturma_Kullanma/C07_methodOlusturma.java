@@ -1,6 +1,6 @@
 package D12_methodOlusturma_Kullanma;
 
-public class C07 {
+public class C07_methodOlusturma {
 
     public static void main(String[] args) {
 
