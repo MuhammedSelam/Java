@@ -5,7 +5,6 @@ public class C04_whileLoop {
     public static void main(String[] args) {
 
         // 1'den 100'e kadar olan sayilari (sinirlar dahil)
-
         // for loop ile hesaplayin
 
         int toplam=0;
@@ -14,6 +13,8 @@ public class C04_whileLoop {
         }
         System.out.println("for loop ile toplam : " + toplam); // 5050
 
+
+        // while loop ile hesaplayin
 
         toplam =0;
         int i = 1;
