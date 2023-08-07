@@ -1,4 +1,4 @@
-package D13_whileLoop;
+package D13_WhileLoop;
 
 import java.util.Scanner;
 

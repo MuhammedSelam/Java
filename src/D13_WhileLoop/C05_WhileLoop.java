@@ -1,4 +1,4 @@
-package D13_whileLoop;
+package D13_WhileLoop;
 
 public class C05_WhileLoop {
 
