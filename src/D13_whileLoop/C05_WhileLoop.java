@@ -9,15 +9,10 @@ public class C05_WhileLoop {
         int sayi = 10;
 
         while (sayi <= 99) {
-
             if (sayi % 7 == 0) {
-
                 System.out.print(sayi + " ");
-
             }
-
             sayi++;
-
         }
 
     }
